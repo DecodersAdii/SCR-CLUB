@@ -6,12 +6,7 @@
  
  
 /*
-Template Name: Lalapeden
-Author: <a href="http://www.os-templates.com/">OS Templates</a>
-Author URI: http://www.os-templates.com/
-Licence: Free to use under our free template licence terms
-Licence URI: http://www.os-templates.com/template-terms
-File: Flexslider Configuration Settings
+
 */
 
 // All configuration settings / properties can be found here: https://github.com/woothemes/FlexSlider/wiki/FlexSlider-Properties
